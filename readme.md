@@ -4,4 +4,4 @@
 
 ## Username: admin@gmail.com,  password: admin123
 ## Username: user@gmail.com,  password: user123
-## After sucessfully running the application these user credentials with encoded password will be automatically stored in the H2 Database.
+## After successfully running the application these user credentials with encoded password will be automatically stored in the H2 Database.
